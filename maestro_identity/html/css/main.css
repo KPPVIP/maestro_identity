@@ -1,0 +1,46 @@
+:root { 
+  --Schriftartabi: #929292;
+  --white: #ffffff;
+  --background: #000000ab;
+  --charbeachtencolor: #a4a4a4;
+  --checkmark: #636363;
+  --checkmarkwichtig: #636363;
+  --inputeingabetext: rgba(255,255,255,1);
+  --einreisenbutton: #333333fe;
+
+
+
+  --font-size-l: 12px;
+  --font-size-m: 11px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 38px;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+
+.poppins-normal-white-11px {
+  outline: transparent;
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-Schriftartabi-11px {
+  outline: transparent;
+  background-color: transparent;
+  color: var(--Schriftartabi);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+}
+
+.poppins-normal-Schriftartabi-11px-2 {
+  outline: transparent;
+  background-color: transparent;
+  color: var(--Schriftartabi);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
